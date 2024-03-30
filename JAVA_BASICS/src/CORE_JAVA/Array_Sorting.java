@@ -3,6 +3,17 @@ import java.util.*;
 
 public class Array_Sorting {
 
+	@Override
+	public String toString() {
+		return "Array_Sorting [getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
+				+ super.toString() + "]";
+	}
+
+	public Array_Sorting() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
 	public static void main(String[] args) {
 		//3RD COMMIT FOR GIT
 		int[] ages = new int[5];

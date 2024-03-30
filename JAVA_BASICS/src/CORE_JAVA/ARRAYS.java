@@ -3,7 +3,7 @@ package CORE_JAVA;
 public class ARRAYS {
 
 	public static void main(String[] args) {
-	
+		//Below IS
 		//ARRAY STORES THE SET OF ITEMS IN AN ARRANGED ORDER WITH SAME SAME DATA TYPE with square brackets{}
 	String[] players = {"RENAOLDO","MESSI","NAYMER","BENZMAN"};
 	
